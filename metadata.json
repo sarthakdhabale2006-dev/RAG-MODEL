@@ -1,0 +1,8 @@
+{
+  "name": "OmniGenius AI Studio",
+  "description": "A high-performance real-time AI assistant featuring multimodal capabilities: Live Voice (Gemini Live), Video Generation (Veo), Image Generation/Editing (Nano Banana), and advanced RAG-powered analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
